@@ -1,2 +1,5 @@
-# java-teeing-collector
-Java Teeing Collector
+# Java Teeing Collector
+
+
+## Ref
+* https://www.baeldung.com/java-12-new-features#teeingCollector
